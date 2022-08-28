@@ -1,15 +1,5 @@
 rtASCII(random terminal ASCII)
-Written in python and shell
-			       \ ----o-o-o-o \		Useless
-o----			        \ ----o	    o \		Useless
-o----			         \ ----o     o \	Useless		      |\
-o-o-o-o-o-o-o-o-o-o-o-o-o----\	  \ ----o     o \	Useless		      | \
-o----  			 o----\	   \ ----o     o \	Useless	\== == == =====  \ SOFTW
-\ o----		   o-o-o-o-o----\   \ ----o     o \	Useless  \== == == ====  / SOFTW
- \ o---           o----	             \ ----o     o \	Useless		      | /
-  \ o----	 o----	----o-o-o-o-o-o-o-o-      o \	Useless		      |/
-   \ o----	o----	----o                      o \	Useless
-AK  \ o-o-o-o-o-o----	----o-o-o-o-o-o-o-o-o-o-o-o-o \	Useless
+Written in python and shell script
 
 To start it up after opening terminal:
 	1. Copy "rtasciis.sh" to ~/
