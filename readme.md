@@ -1,4 +1,4 @@
-rtASCII(random terminal ASCII)
+#rtASCII(random terminal ASCII)
 
 Written in shell and python
 
